@@ -1,0 +1,16 @@
+.main1{
+    font-size:x-large;
+    font-family:"Sans-Serif";
+    color:#766141;
+}
+.link{
+    text-align:center;
+}
+.link2{
+
+  text-decoration: overline;
+  text-decoration: line-through;
+  text-decoration: underline;
+  text-decoration: underline overline;
+  text-shadow: 2px 2px #ff0000;
+}
